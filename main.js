@@ -9,4 +9,4 @@ function findCumulativeSum(number) {
     return sum;
 }
 
-console.log(findCumulativeSum(500))
+console.log(findCumulativeSum(5))
